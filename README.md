@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amhafidhJr
+- 👋 Hi, I’m Adulhalim Hafidh
 - 👀 I’m interested in Coding & Information Security
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & Flutter
 - 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me amhafidh@proton.me | +255 687 288 789 
 
